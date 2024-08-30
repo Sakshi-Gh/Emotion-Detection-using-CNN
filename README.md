@@ -1,9 +1,8 @@
 # Emotion-Detection-using-CNN
-Leveraging CNNs and ResNets for Deep Learning-based Facial Emotion Recognition.
+Leveraging CNNs for Deep Learning-based Facial Emotion Recognition.
 
 ## Project Goals
 - Design and train a CNN-based model for facial emotion recognition.
-- Evaluate the effectiveness of ResNets in improving emotion classification accuracy.
 
 ## Prerequisites
 - Python (version 3.x recommended)
@@ -18,7 +17,7 @@ Leveraging CNNs and ResNets for Deep Learning-based Facial Emotion Recognition.
 - Split the data into training, validation, and test sets
 
 2. Train the model:
-- Define the CNN architecture (including ResNets)
+- Define the CNN architecture 
 - Compile the model with an Adam optimizer and loss function
 - Train the model on the training data, monitoring validation performance
 
